@@ -64,4 +64,4 @@ PROMPT DE FLASHCARDS AUTOMÁTICOS:
 ```
 
 ---
-💡 *Projeto desenvolvido por **Michel Santos** para o Portfólio da DIO. Conecte-se comigo no [LinkedIn](https://linkedin.com).*
+💡 *Projeto desenvolvido por **Michel Santos** para o Portfólio da DIO. Conecte-se comigo no [LinkedIn](https://linkedin.com/in/michel-santos-ba263542).
